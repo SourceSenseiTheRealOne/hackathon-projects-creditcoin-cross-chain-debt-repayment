@@ -1,7 +1,9 @@
 # Hosting
 
 Public testnet UI: https://curebid.vercel.app
-Public repository: https://github.com/SourceSenseiTheRealOne/curebid
+Public repository: https://github.com/SourceSenseiTheRealOne/hackathon-projects-creditcoin-cross-chain-debt-repayment
+
+The repository uses a descriptive collection name; the CureBid product name, Vercel project, public hostname and deployed protocol identities are unchanged.
 
 Vercel project `curebid` in `sourcesenseis-projects` uses root directory `apps/web`, Node 24.x, framework Next.js, install `pnpm install --frozen-lockfile`, build `cd ../.. && pnpm build`, and includes workspace files outside the root. GitHub integration is connected. Deployment protection is disabled for this explicitly public testnet app.
 

@@ -1,6 +1,6 @@
 # CureBid agent rules
 
-Read `context/capsule.md` and `context/stack.md` before edits. Approved design/plan are initially in the parent Lab at `../../docs/superpowers/specs/2026-09-07-curebid-design.md` and `../../docs/superpowers/plans/2026-09-07-curebid-implementation.md`.
+Read `context/capsule.md` and `context/stack.md` before edits. Approved design/plan are initially in the parent Lab at `../../../../docs/superpowers/specs/2026-09-07-curebid-design.md` and `../../../../docs/superpowers/plans/2026-09-07-curebid-implementation.md`.
 
 - One canonical checkout, one writer, no worktrees/duplicate repositories. Preserve unrelated work. No commits/push/publishing unless explicitly asked.
 - Testnet-only. Allowed network IDs: Ethereum Sepolia 11155111, Creditcoin CC3 102031. Attestcoin chainKey must be discovered independently. Never touch mainnet or existing wallets/secrets.

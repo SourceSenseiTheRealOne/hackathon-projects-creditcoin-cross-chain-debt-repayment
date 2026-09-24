@@ -319,7 +319,7 @@ export function Market({
             Historical Aave proof is feasibility evidence, not a CureBid
             repayment.
           </p>
-          <a href="https://github.com/SourceSenseiTheRealOne/curebid">
+          <a href="https://github.com/SourceSenseiTheRealOne/hackathon-projects-creditcoin-cross-chain-debt-repayment">
             Source and verification instructions ↗
           </a>
         </div>
