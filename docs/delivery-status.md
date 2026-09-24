@@ -17,7 +17,7 @@
 
 ## Remaining handoff items (not disguised as completed)
 - [x] Superseded trial escrow refunded and withdrawn after genuine source expiry and native proof. Independent readback confirms zero reserved funds, zero total credits and zero balance. Evidence: `docs/evidence/superseded-cleanup.json`.
-- [ ] Team identity, organiser form and actual hackathon submission require user input/action.
+- [x] Submitted as a hackathon project; submission confirmed by the project owner.
 - [x] Public frontend: https://curebid.vercel.app, deployed through the user’s Vercel account. Repository made public with explicit permission. Eight browser tests pass against the hosted production URL.
 - [ ] Autonomous recovery of every arbitrary interrupted setup is not claimed: ambiguous pre-broadcast intents fail closed for operator inspection.
 

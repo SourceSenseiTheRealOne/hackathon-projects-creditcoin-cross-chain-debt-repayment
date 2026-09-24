@@ -30,7 +30,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
             Native CTC reimbursement is not a dollar price. Proof outages can
             delay settlement.
           </p>
-          <a href="https://github.com/SourceSenseiTheRealOne/curebid">
+          <a href="https://github.com/SourceSenseiTheRealOne/hackathon-projects-creditcoin-cross-chain-debt-repayment">
             GitHub ↗
           </a>
         </footer>
